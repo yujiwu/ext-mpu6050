@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "MPU-6050陀螺仪模块",
+		"en": "MPU-6050 accelerometer"
+	},
+	"description": {
+		"zh-cn": "六轴陀螺仪模块包含加速度计        作者: UG",
+		"en": "MPU-6050 Module with accelerometer and gyrometer written by UG"
+	},
+	"author": "UG",
+	"email": "cswuyujieapp@126.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "mpu6050",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["arduino", "arduinonano"],
+			"main": "main.ts"
+		}
+	}
+}

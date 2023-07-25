@@ -1,0 +1,6 @@
+{
+    "mpu6050.moduleInit|block": "初始化MPU6050模块",
+    "mpu6050.getOriginalData|block": "获取原始数据",
+    "mpu6050.getRoll|block": "计算翻滚角",
+    "mpu6050.getPitch|block": "计算俯仰角"
+}
